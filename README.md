@@ -1,3 +1,3 @@
-# kakao_clone
- 
+# kokoa_clone
+
 Kakao Desktop App Clone
